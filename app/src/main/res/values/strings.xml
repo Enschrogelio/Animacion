@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animacion</string>
+    <string name="td">Traslación a la derecha</string>
+    <string name="t">Traslación</string>
+</resources>
